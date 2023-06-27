@@ -8,7 +8,6 @@ namespace warehouse
 {
     internal class Program
     {
-        
         static void Main(string[] args)
         {
             List<Pallet> pallet = new List<Pallet>();
